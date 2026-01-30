@@ -5,6 +5,12 @@ This project demonstrates how an e-commerce cart works, including dynamic UI upd
 
 Live Demo: https://subhajitcodes.github.io/shopping-cart/
 
+### Product Listing Page
+![Product Page](products-view.png)
+
+### Cart With Items Added
+![Cart Page](cart-with-items.png)
+
 ## Features
 
 - Product listing displayed dynamically  
